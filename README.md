@@ -1,4 +1,4 @@
-cookiecutter-helga-plugin
+soundcloud-plugin
 =========================
 
-Cookie Cutter (https://github.com/audreyr/cookiecutter) template for The Helga (https://github.com/shaunduncan/helga)
+More info to come. See: https://github.com/shaunduncan/helga/issues/115
